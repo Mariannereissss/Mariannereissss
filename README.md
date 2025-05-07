@@ -9,7 +9,6 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - 💻 Front-end: HTML5 | CSS3 (em aprendizado) 
-- 🐍 Back-end: Python (em aprendizado)
 - 🌐 Ferramentas: Git | GitHub | VS Code
 
 ## 📈 Objetivos
