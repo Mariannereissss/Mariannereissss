@@ -2,7 +2,7 @@
 ```markdown
 # 👋 Olá, eu sou a Marianne! 
 
-🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Full Stack  
+🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
 📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
 🚀 Em busca de oportunidades como estagiária na área de tecnologia  
 💡 Apaixonada por resolver problemas e aprender coisas novas
