@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ```markdown
 # 👋 Olá, eu sou a Marianne! 
 
