@@ -1,4 +1,4 @@
-                                                         # 👋 Olá, eu sou a Marianne! 
+                                                         #👋 Olá, eu sou a Marianne! 
 ![Header](./fondodepantallasimple.jpg)
 
 ```markdown
