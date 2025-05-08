@@ -22,7 +22,7 @@
 ## 📫 Contato
 
 - Email: dmariannereis@gmail.com 
-- ![LinkedIn:] (https://www.linkedin.com/in/marianne-reis-479a96345/) 
+- LinkedIn: https://www.linkedin.com/in/marianne-reis-479a96345/
 
 ---
 
