@@ -1,5 +1,5 @@
-                                                         #👋 Olá, eu sou a Marianne! 
-    ![Header](./Fondodepantallasimple.jpg)
+                                                         ##👋 Olá, eu sou a Marianne! 
+ ![Header](./Fondodepantallasimple.jpg)
 
 ```markdown
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
