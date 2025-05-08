@@ -1,5 +1,5 @@
 
-                                                         <h1>👋 Olá, eu sou a Marianne! </h1>
+                                                         👋 Olá, eu sou a Marianne! 
 <p align="center">
   <img src="./Rubberduckdebugging-Wikipedia.jpg" />
 </p>
