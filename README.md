@@ -1,7 +1,7 @@
-```markdown
+
                                                          ##👋 Olá, eu sou a Marianne! 
  ![Header](./Fondodepantallasimple.jpg)
-
+```markdown
 
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
 📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
