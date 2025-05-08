@@ -1,6 +1,7 @@
-![Header](./github-header-image.png)
 ```markdown
 # 👋 Olá, eu sou a Marianne! 
+![Header](./fondo-de-pantalla-simple.jpg)
+
 
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
 📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
