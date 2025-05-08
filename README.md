@@ -1,8 +1,8 @@
-```markdown
+
 # 👋 Olá, eu sou a Marianne! 
-![Header](./fondo-de-pantalla-simple.jpg)
+![Header](./fondodepantallasimple.jpg)
 
-
+```markdown
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
 📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
 🚀 Em busca de oportunidades como estagiária na área de tecnologia  
