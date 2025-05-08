@@ -1,6 +1,6 @@
 
                                                          ##👋 Olá, eu sou a Marianne! 
- ![Header](./Rubber duck debbuging - Wikipedia.jpg)
+ ![Header](./Rubberduckdebbuging-Wikipedia.jpg)
 ```markdown
 
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
