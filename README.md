@@ -1,5 +1,5 @@
 
-                                                             👋 Olá, eu sou a Marianne! 
+                                                          👋 Olá, eu sou a Marianne! 
 <p align="center">
   <img src="./Rubberduckdebugging-Wikipedia.jpg" />
 </p>
@@ -15,7 +15,7 @@
 
 - 💻 Front-end: HTML5 | CSS3 (em aprendizado) 
 - 🌐 Ferramentas: Git | GitHub | VS Code
-<img src="logohtml.png" width="100">
+<img src="logohtml_sem_fundo.png" width="100">
 
 ## 📈 Objetivos
 
