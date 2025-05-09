@@ -1,10 +1,10 @@
 
-                                                         👋 Olá, eu sou a Marianne! 
+                                                         <h1>👋 Olá, eu sou a Marianne! </h1>
 <p align="center">
   <img src="./Rubberduckdebugging-Wikipedia.jpg" />
 </p>
 
-```markdown
+
 
 🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
 📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
@@ -15,6 +15,7 @@
 
 - 💻 Front-end: HTML5 | CSS3 (em aprendizado) 
 - 🌐 Ferramentas: Git | GitHub | VS Code
+<img src="htmllogo.png" width="10">
 
 ## 📈 Objetivos
 
