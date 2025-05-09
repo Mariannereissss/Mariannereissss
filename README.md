@@ -15,7 +15,7 @@
 
 - 💻 Front-end: HTML5 | CSS3 (em aprendizado) 
 - 🌐 Ferramentas: Git | GitHub | VS Code
-<img src="htmllogo.jpg" width="10">
+<img src="logohtml.jpg" width="10">
 
 ## 📈 Objetivos
 
