@@ -17,7 +17,7 @@
 - 🌐 Ferramentas: Git | GitHub | VS Code
 
 <p>
-<img src="logohtml_sem_fundo.png" width="100">
+<img src="logohtml_sem_fundo.png" width="90">
 <img src="download (1).png" width="129">
 </p>
 
