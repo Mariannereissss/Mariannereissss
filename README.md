@@ -13,9 +13,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 Front-end: HTML5 | CSS3 (em aprendizado) 
+- 💻 Front-end: HTML5 | CSS3 | JavaScript (em aprendizado) 
 - 🌐 Ferramentas: Git | GitHub | VS Code
 <img src="logohtml_sem_fundo.png" width="100">
+<img src="download (1).png" width="100">
 
 ## 📈 Objetivos
 
