@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="logohtml_sem_fundo.png" width="90">
-<img src="download (1).png" width="110">
+<img src="download (1).png" width="130">
 </p>
 
 ## 📈 Objetivos
