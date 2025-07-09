@@ -6,14 +6,14 @@
 
 
 
-🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front end  
-📚 Atualmente aprendendo: HTML, CSS, Excel, Git e Github.
+🎓 Estudante de desenvolvimento web | 👩‍💻 Focada em me tornar desenvolvedora Front-end  
+📚 Atualmente aprendendo: HTML, CSS, Excel, JavaScript, Git e Github.
 🚀 Em busca de oportunidades como estagiária na área de tecnologia  
 💡 Apaixonada por resolver problemas e aprender coisas novas
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 Front-end: HTML5 | CSS3 | JavaScript (em aprendizado) 
+- 💻 Front-end: HTML5 | CSS3 | JavaScript 
 - 🌐 Ferramentas: Git | GitHub | VS Code
 
 <img src="download (2).png" width="110">
