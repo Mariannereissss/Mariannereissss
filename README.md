@@ -16,7 +16,7 @@
 - 💻 Front-end: HTML5 | CSS3 | JavaScript 
 - 🌐 Ferramentas: Git | GitHub | VS Code
 
-<img src="download (8).png" width="250">
+<img src="download (9).png" width="250">
 
 ## 📈 Objetivos
 
